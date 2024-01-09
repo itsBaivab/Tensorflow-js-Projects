@@ -1,0 +1,19 @@
+body {
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+}
+
+#slouch-status {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+#toggle-blur {
+    background-color: #4CAF50;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
